@@ -1,0 +1,14 @@
+{
+  "name": "natorus",
+  "version": "1.0.0",
+  "description": "first project for advanced css",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css -w" 
+  },
+  "author": "Rhythm",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.77.4"
+  }
+}
